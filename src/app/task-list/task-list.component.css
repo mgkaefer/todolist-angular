@@ -1,0 +1,7 @@
+.line-through {
+  text-decoration: line-through;
+}
+
+.line-break {
+  line-break: anywhere;
+}
